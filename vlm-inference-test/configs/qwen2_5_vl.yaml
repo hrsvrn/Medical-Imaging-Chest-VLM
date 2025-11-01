@@ -1,0 +1,5 @@
+model_name: Qwen/Qwen2.5-VL-7B-Instruct
+device: "cuda"  # or "cpu"
+precision: "fp16"
+max_new_tokens: 128
+temperature: 0.7
